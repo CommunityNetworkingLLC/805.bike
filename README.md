@@ -1,3 +1,3 @@
 ride-your-bike
 ===============
-This is the code for 805.bike.appspot.com
+This is my test for Angular JavaScript and User reviews.
